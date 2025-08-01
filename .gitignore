@@ -1,2 +1,12 @@
+# Dependency directory
+node_modules/
+
+
+# Local environment variables
 .env
-node_modules
+
+# Vite cache
+.vite/
+
+# Editor-specific
+.vscode/
