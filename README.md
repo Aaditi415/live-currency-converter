@@ -27,7 +27,7 @@ A modern currency converter web app built with **React**, **Vite**, and **Tailwi
 
 ## 📸 Preview
 
-![Currency Converter Screenshot](docs/img1.png)
-![Currency Converter Screenshot](docs/img2.png)
+![Currency Converter Screenshot](docs/desktop.png)
+![Currency Converter Screenshot](docs/mobile.png)
 
 ---
