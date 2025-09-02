@@ -14,7 +14,7 @@ export default function App() {
   const [currencyOptions, setCurrencyOptions] = useState([]);
 
   // Your API key for the currency API
-  const API_KEY = "cur_live_NLAHflWlAAXwULtDCTTZznG5nYLVMJQkvkzU7yuM;";
+  const API_KEY = "cur_live_NLAHflWlAAXwULtDCTTZznG5nYLVMJQkvkzU7yuM";
 
 
   // State for selected "from" currency
