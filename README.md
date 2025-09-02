@@ -1,6 +1,7 @@
 # 🌍 Currency Converter
 
-![Currency Converter Screenshot](docs/desktop.png)
+![Currency Converter Screenshot](docs/mobile.png)
+
 A modern currency converter web app built with **React**, **Vite**, and **Tailwind CSS**. It uses real-time exchange rates from [CurrencyAPI](https://currencyapi.com/) to convert between global currencies quickly and accurately.
 
 ---
@@ -28,6 +29,6 @@ A modern currency converter web app built with **React**, **Vite**, and **Tailwi
 
 ## 📸 Preview
 
-![Currency Converter Screenshot](docs/mobile.png)
+![Currency Converter Screenshot](docs/desktop.png)
 
 ---
