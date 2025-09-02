@@ -14,7 +14,7 @@ export default function App() {
   const [currencyOptions, setCurrencyOptions] = useState([]);
 
   // Your API key for the currency API
-  const API_KEY = import.meta.env.VITE_CURRENCY_API_KEY;
+  const API_KEY = "cur_live_NLAHflWlAAXwULtDCTTZznG5nYLVMJQkvkzU7yuM;";
 
 
   // State for selected "from" currency

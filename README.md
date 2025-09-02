@@ -45,4 +45,4 @@ This project is great if you want to:
 
 ---
 
-
+“⚠️ This project uses a free CurrencyAPI key exposed for demo purposes. Please replace it with your own key if you clone the repo.”
